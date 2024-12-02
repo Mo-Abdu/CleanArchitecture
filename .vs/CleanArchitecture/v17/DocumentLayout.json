@@ -1,0 +1,653 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\CleanArchitecture\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4929568E-F732-45F8-A2FD-3E473A182929}|Test\\Test.csproj|c:\\users\\user\\desktop\\cleanarchitecture\\test\\updatebookcommandhandlertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4929568E-F732-45F8-A2FD-3E473A182929}|Test\\Test.csproj|solutionrelative:test\\updatebookcommandhandlertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4929568E-F732-45F8-A2FD-3E473A182929}|Test\\Test.csproj|c:\\users\\user\\desktop\\cleanarchitecture\\test\\updateauthorcommandhandlertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4929568E-F732-45F8-A2FD-3E473A182929}|Test\\Test.csproj|solutionrelative:test\\updateauthorcommandhandlertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4929568E-F732-45F8-A2FD-3E473A182929}|Test\\Test.csproj|c:\\users\\user\\desktop\\cleanarchitecture\\test\\getbooksqueryhandlertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4929568E-F732-45F8-A2FD-3E473A182929}|Test\\Test.csproj|solutionrelative:test\\getbooksqueryhandlertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4929568E-F732-45F8-A2FD-3E473A182929}|Test\\Test.csproj|c:\\users\\user\\desktop\\cleanarchitecture\\test\\getauthorsqueryhandlertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4929568E-F732-45F8-A2FD-3E473A182929}|Test\\Test.csproj|solutionrelative:test\\getauthorsqueryhandlertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4929568E-F732-45F8-A2FD-3E473A182929}|Test\\Test.csproj|c:\\users\\user\\desktop\\cleanarchitecture\\test\\deletebookcommandhandlertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4929568E-F732-45F8-A2FD-3E473A182929}|Test\\Test.csproj|solutionrelative:test\\deletebookcommandhandlertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4929568E-F732-45F8-A2FD-3E473A182929}|Test\\Test.csproj|c:\\users\\user\\desktop\\cleanarchitecture\\test\\deleteauthorcommandhandlertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4929568E-F732-45F8-A2FD-3E473A182929}|Test\\Test.csproj|solutionrelative:test\\deleteauthorcommandhandlertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4929568E-F732-45F8-A2FD-3E473A182929}|Test\\Test.csproj|c:\\users\\user\\desktop\\cleanarchitecture\\test\\addbookcommandhandlertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4929568E-F732-45F8-A2FD-3E473A182929}|Test\\Test.csproj|solutionrelative:test\\addbookcommandhandlertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4929568E-F732-45F8-A2FD-3E473A182929}|Test\\Test.csproj|c:\\users\\user\\desktop\\cleanarchitecture\\test\\addauthorcommandhandlertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4929568E-F732-45F8-A2FD-3E473A182929}|Test\\Test.csproj|solutionrelative:test\\addauthorcommandhandlertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D9745C9-5095-4DB2-AE29-4331E653829F}|Api\\Api.csproj|c:\\users\\user\\desktop\\cleanarchitecture\\api\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D9745C9-5095-4DB2-AE29-4331E653829F}|Api\\Api.csproj|solutionrelative:api\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D9745C9-5095-4DB2-AE29-4331E653829F}|Api\\Api.csproj|c:\\users\\user\\desktop\\cleanarchitecture\\api\\controllers\\authorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D9745C9-5095-4DB2-AE29-4331E653829F}|Api\\Api.csproj|solutionrelative:api\\controllers\\authorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAF4C230-FF08-421B-BE66-FD344ACC6ED7}|Infrastructure\\Infrastructure.csproj|c:\\users\\user\\desktop\\cleanarchitecture\\infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAF4C230-FF08-421B-BE66-FD344ACC6ED7}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAF4C230-FF08-421B-BE66-FD344ACC6ED7}|Infrastructure\\Infrastructure.csproj|c:\\users\\user\\desktop\\cleanarchitecture\\infrastructure\\ifakedatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAF4C230-FF08-421B-BE66-FD344ACC6ED7}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\ifakedatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAF4C230-FF08-421B-BE66-FD344ACC6ED7}|Infrastructure\\Infrastructure.csproj|c:\\users\\user\\desktop\\cleanarchitecture\\infrastructure\\fakedatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAF4C230-FF08-421B-BE66-FD344ACC6ED7}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\fakedatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C533AF0-1178-405E-8BFB-C0D86C4ABD05}|Models\\Models.csproj|c:\\users\\user\\desktop\\cleanarchitecture\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C533AF0-1178-405E-8BFB-C0D86C4ABD05}|Models\\Models.csproj|solutionrelative:models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C533AF0-1178-405E-8BFB-C0D86C4ABD05}|Models\\Models.csproj|c:\\users\\user\\desktop\\cleanarchitecture\\models\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C533AF0-1178-405E-8BFB-C0D86C4ABD05}|Models\\Models.csproj|solutionrelative:models\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ED1EBAF-D1F3-45F6-A57F-7F6403FB2D07}|Application\\Application.csproj|c:\\users\\user\\desktop\\cleanarchitecture\\application\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ED1EBAF-D1F3-45F6-A57F-7F6403FB2D07}|Application\\Application.csproj|solutionrelative:application\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ED1EBAF-D1F3-45F6-A57F-7F6403FB2D07}|Application\\Application.csproj|c:\\users\\user\\desktop\\cleanarchitecture\\application\\queries\\getbooksqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ED1EBAF-D1F3-45F6-A57F-7F6403FB2D07}|Application\\Application.csproj|solutionrelative:application\\queries\\getbooksqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ED1EBAF-D1F3-45F6-A57F-7F6403FB2D07}|Application\\Application.csproj|c:\\users\\user\\desktop\\cleanarchitecture\\application\\queries\\getbooksquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ED1EBAF-D1F3-45F6-A57F-7F6403FB2D07}|Application\\Application.csproj|solutionrelative:application\\queries\\getbooksquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ED1EBAF-D1F3-45F6-A57F-7F6403FB2D07}|Application\\Application.csproj|c:\\users\\user\\desktop\\cleanarchitecture\\application\\queries\\getbookbyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ED1EBAF-D1F3-45F6-A57F-7F6403FB2D07}|Application\\Application.csproj|solutionrelative:application\\queries\\getbookbyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ED1EBAF-D1F3-45F6-A57F-7F6403FB2D07}|Application\\Application.csproj|c:\\users\\user\\desktop\\cleanarchitecture\\application\\queries\\getbookbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ED1EBAF-D1F3-45F6-A57F-7F6403FB2D07}|Application\\Application.csproj|solutionrelative:application\\queries\\getbookbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ED1EBAF-D1F3-45F6-A57F-7F6403FB2D07}|Application\\Application.csproj|c:\\users\\user\\desktop\\cleanarchitecture\\application\\queries\\getauthorsqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ED1EBAF-D1F3-45F6-A57F-7F6403FB2D07}|Application\\Application.csproj|solutionrelative:application\\queries\\getauthorsqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ED1EBAF-D1F3-45F6-A57F-7F6403FB2D07}|Application\\Application.csproj|c:\\users\\user\\desktop\\cleanarchitecture\\application\\queries\\getauthorsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ED1EBAF-D1F3-45F6-A57F-7F6403FB2D07}|Application\\Application.csproj|solutionrelative:application\\queries\\getauthorsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ED1EBAF-D1F3-45F6-A57F-7F6403FB2D07}|Application\\Application.csproj|c:\\users\\user\\desktop\\cleanarchitecture\\application\\queries\\getauthorbyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ED1EBAF-D1F3-45F6-A57F-7F6403FB2D07}|Application\\Application.csproj|solutionrelative:application\\queries\\getauthorbyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ED1EBAF-D1F3-45F6-A57F-7F6403FB2D07}|Application\\Application.csproj|c:\\users\\user\\desktop\\cleanarchitecture\\application\\queries\\getauthorbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ED1EBAF-D1F3-45F6-A57F-7F6403FB2D07}|Application\\Application.csproj|solutionrelative:application\\queries\\getauthorbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ED1EBAF-D1F3-45F6-A57F-7F6403FB2D07}|Application\\Application.csproj|c:\\users\\user\\desktop\\cleanarchitecture\\application\\handlers\\authorhandlers\\deleteauthorcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ED1EBAF-D1F3-45F6-A57F-7F6403FB2D07}|Application\\Application.csproj|solutionrelative:application\\handlers\\authorhandlers\\deleteauthorcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ED1EBAF-D1F3-45F6-A57F-7F6403FB2D07}|Application\\Application.csproj|c:\\users\\user\\desktop\\cleanarchitecture\\application\\handlers\\bookhandlers\\updatebookcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ED1EBAF-D1F3-45F6-A57F-7F6403FB2D07}|Application\\Application.csproj|solutionrelative:application\\handlers\\bookhandlers\\updatebookcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ED1EBAF-D1F3-45F6-A57F-7F6403FB2D07}|Application\\Application.csproj|c:\\users\\user\\desktop\\cleanarchitecture\\application\\handlers\\bookhandlers\\deletebookcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ED1EBAF-D1F3-45F6-A57F-7F6403FB2D07}|Application\\Application.csproj|solutionrelative:application\\handlers\\bookhandlers\\deletebookcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ED1EBAF-D1F3-45F6-A57F-7F6403FB2D07}|Application\\Application.csproj|c:\\users\\user\\desktop\\cleanarchitecture\\application\\handlers\\bookhandlers\\addbookcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ED1EBAF-D1F3-45F6-A57F-7F6403FB2D07}|Application\\Application.csproj|solutionrelative:application\\handlers\\bookhandlers\\addbookcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ED1EBAF-D1F3-45F6-A57F-7F6403FB2D07}|Application\\Application.csproj|c:\\users\\user\\desktop\\cleanarchitecture\\application\\handlers\\authorhandlers\\updateauthorcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ED1EBAF-D1F3-45F6-A57F-7F6403FB2D07}|Application\\Application.csproj|solutionrelative:application\\handlers\\authorhandlers\\updateauthorcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ED1EBAF-D1F3-45F6-A57F-7F6403FB2D07}|Application\\Application.csproj|c:\\users\\user\\desktop\\cleanarchitecture\\application\\handlers\\authorhandlers\\addauthorcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ED1EBAF-D1F3-45F6-A57F-7F6403FB2D07}|Application\\Application.csproj|solutionrelative:application\\handlers\\authorhandlers\\addauthorcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ED1EBAF-D1F3-45F6-A57F-7F6403FB2D07}|Application\\Application.csproj|c:\\users\\user\\desktop\\cleanarchitecture\\application\\commands\\bookcommands\\updatebookcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ED1EBAF-D1F3-45F6-A57F-7F6403FB2D07}|Application\\Application.csproj|solutionrelative:application\\commands\\bookcommands\\updatebookcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ED1EBAF-D1F3-45F6-A57F-7F6403FB2D07}|Application\\Application.csproj|c:\\users\\user\\desktop\\cleanarchitecture\\application\\commands\\bookcommands\\deletebookcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ED1EBAF-D1F3-45F6-A57F-7F6403FB2D07}|Application\\Application.csproj|solutionrelative:application\\commands\\bookcommands\\deletebookcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ED1EBAF-D1F3-45F6-A57F-7F6403FB2D07}|Application\\Application.csproj|c:\\users\\user\\desktop\\cleanarchitecture\\application\\commands\\bookcommands\\addbookcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ED1EBAF-D1F3-45F6-A57F-7F6403FB2D07}|Application\\Application.csproj|solutionrelative:application\\commands\\bookcommands\\addbookcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ED1EBAF-D1F3-45F6-A57F-7F6403FB2D07}|Application\\Application.csproj|c:\\users\\user\\desktop\\cleanarchitecture\\application\\commands\\authorcommands\\updateauthorcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ED1EBAF-D1F3-45F6-A57F-7F6403FB2D07}|Application\\Application.csproj|solutionrelative:application\\commands\\authorcommands\\updateauthorcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ED1EBAF-D1F3-45F6-A57F-7F6403FB2D07}|Application\\Application.csproj|c:\\users\\user\\desktop\\cleanarchitecture\\application\\commands\\authorcommands\\deleteauthorcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ED1EBAF-D1F3-45F6-A57F-7F6403FB2D07}|Application\\Application.csproj|solutionrelative:application\\commands\\authorcommands\\deleteauthorcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ED1EBAF-D1F3-45F6-A57F-7F6403FB2D07}|Application\\Application.csproj|c:\\users\\user\\desktop\\cleanarchitecture\\application\\commands\\authorcommands\\addauthorcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ED1EBAF-D1F3-45F6-A57F-7F6403FB2D07}|Application\\Application.csproj|solutionrelative:application\\commands\\authorcommands\\addauthorcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D9745C9-5095-4DB2-AE29-4331E653829F}|Api\\Api.csproj|c:\\users\\user\\desktop\\cleanarchitecture\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D9745C9-5095-4DB2-AE29-4331E653829F}|Api\\Api.csproj|solutionrelative:api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAF4C230-FF08-421B-BE66-FD344ACC6ED7}|Infrastructure\\Infrastructure.csproj|c:\\users\\user\\desktop\\cleanarchitecture\\infrastructure\\infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CAF4C230-FF08-421B-BE66-FD344ACC6ED7}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GetAuthorsQueryHandlerTests.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\CleanArchitecture\\Test\\GetAuthorsQueryHandlerTests.cs",
+              "RelativeDocumentMoniker": "Test\\GetAuthorsQueryHandlerTests.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\CleanArchitecture\\Test\\GetAuthorsQueryHandlerTests.cs",
+              "RelativeToolTip": "Test\\GetAuthorsQueryHandlerTests.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAACcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T22:26:08.603Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GetBooksQueryHandlerTests.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\CleanArchitecture\\Test\\GetBooksQueryHandlerTests.cs",
+              "RelativeDocumentMoniker": "Test\\GetBooksQueryHandlerTests.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\CleanArchitecture\\Test\\GetBooksQueryHandlerTests.cs",
+              "RelativeToolTip": "Test\\GetBooksQueryHandlerTests.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAAAD4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T22:36:53.29Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UpdateAuthorCommandHandlerTests.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\CleanArchitecture\\Test\\UpdateAuthorCommandHandlerTests.cs",
+              "RelativeDocumentMoniker": "Test\\UpdateAuthorCommandHandlerTests.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\CleanArchitecture\\Test\\UpdateAuthorCommandHandlerTests.cs",
+              "RelativeToolTip": "Test\\UpdateAuthorCommandHandlerTests.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAACgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T22:14:09.65Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UpdateBookCommandHandlerTests.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\CleanArchitecture\\Test\\UpdateBookCommandHandlerTests.cs",
+              "RelativeDocumentMoniker": "Test\\UpdateBookCommandHandlerTests.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\CleanArchitecture\\Test\\UpdateBookCommandHandlerTests.cs",
+              "RelativeToolTip": "Test\\UpdateBookCommandHandlerTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T22:31:55.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DeleteBookCommandHandlerTests.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\CleanArchitecture\\Test\\DeleteBookCommandHandlerTests.cs",
+              "RelativeDocumentMoniker": "Test\\DeleteBookCommandHandlerTests.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\CleanArchitecture\\Test\\DeleteBookCommandHandlerTests.cs",
+              "RelativeToolTip": "Test\\DeleteBookCommandHandlerTests.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAADgAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T22:34:51.426Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DeleteAuthorCommandHandlerTests.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\CleanArchitecture\\Test\\DeleteAuthorCommandHandlerTests.cs",
+              "RelativeDocumentMoniker": "Test\\DeleteAuthorCommandHandlerTests.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\CleanArchitecture\\Test\\DeleteAuthorCommandHandlerTests.cs",
+              "RelativeToolTip": "Test\\DeleteAuthorCommandHandlerTests.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T22:17:54.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AddBookCommandHandlerTests.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\CleanArchitecture\\Test\\AddBookCommandHandlerTests.cs",
+              "RelativeDocumentMoniker": "Test\\AddBookCommandHandlerTests.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\CleanArchitecture\\Test\\AddBookCommandHandlerTests.cs",
+              "RelativeToolTip": "Test\\AddBookCommandHandlerTests.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAAAEAAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T22:21:25.713Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AddAuthorCommandHandlerTests.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\CleanArchitecture\\Test\\AddAuthorCommandHandlerTests.cs",
+              "RelativeDocumentMoniker": "Test\\AddAuthorCommandHandlerTests.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\CleanArchitecture\\Test\\AddAuthorCommandHandlerTests.cs",
+              "RelativeToolTip": "Test\\AddAuthorCommandHandlerTests.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T21:11:59.238Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BooksController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\CleanArchitecture\\Api\\Controllers\\BooksController.cs",
+              "RelativeDocumentMoniker": "Api\\Controllers\\BooksController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\CleanArchitecture\\Api\\Controllers\\BooksController.cs",
+              "RelativeToolTip": "Api\\Controllers\\BooksController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T21:00:09.807Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AuthorsController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\CleanArchitecture\\Api\\Controllers\\AuthorsController.cs",
+              "RelativeDocumentMoniker": "Api\\Controllers\\AuthorsController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\CleanArchitecture\\Api\\Controllers\\AuthorsController.cs",
+              "RelativeToolTip": "Api\\Controllers\\AuthorsController.cs",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAAACEAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T21:07:19.919Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\CleanArchitecture\\Infrastructure\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\DependencyInjection.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\CleanArchitecture\\Infrastructure\\DependencyInjection.cs",
+              "RelativeToolTip": "Infrastructure\\DependencyInjection.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T13:17:59.294Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IFakeDatabase.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\CleanArchitecture\\Infrastructure\\IFakeDatabase.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\IFakeDatabase.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\CleanArchitecture\\Infrastructure\\IFakeDatabase.cs",
+              "RelativeToolTip": "Infrastructure\\IFakeDatabase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T12:58:51.838Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FakeDatabase.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\CleanArchitecture\\Infrastructure\\FakeDatabase.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\FakeDatabase.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\CleanArchitecture\\Infrastructure\\FakeDatabase.cs",
+              "RelativeToolTip": "Infrastructure\\FakeDatabase.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T13:08:59.718Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\CleanArchitecture\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "Models\\Book.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\CleanArchitecture\\Models\\Book.cs",
+              "RelativeToolTip": "Models\\Book.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAYwBUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T13:04:17.669Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Author.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\CleanArchitecture\\Models\\Author.cs",
+              "RelativeDocumentMoniker": "Models\\Author.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\CleanArchitecture\\Models\\Author.cs",
+              "RelativeToolTip": "Models\\Author.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T13:03:27.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\CleanArchitecture\\Application\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "Application\\DependencyInjection.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\CleanArchitecture\\Application\\DependencyInjection.cs",
+              "RelativeToolTip": "Application\\DependencyInjection.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T12:51:18.89Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "GetBooksQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\CleanArchitecture\\Application\\Queries\\GetBooksQueryHandler.cs",
+              "RelativeDocumentMoniker": "Application\\Queries\\GetBooksQueryHandler.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\CleanArchitecture\\Application\\Queries\\GetBooksQueryHandler.cs",
+              "RelativeToolTip": "Application\\Queries\\GetBooksQueryHandler.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T20:01:52.145Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "GetBooksQuery.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\CleanArchitecture\\Application\\Queries\\GetBooksQuery.cs",
+              "RelativeDocumentMoniker": "Application\\Queries\\GetBooksQuery.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\CleanArchitecture\\Application\\Queries\\GetBooksQuery.cs",
+              "RelativeToolTip": "Application\\Queries\\GetBooksQuery.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T19:58:44.629Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "GetBookByIdQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\CleanArchitecture\\Application\\Queries\\GetBookByIdQueryHandler.cs",
+              "RelativeDocumentMoniker": "Application\\Queries\\GetBookByIdQueryHandler.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\CleanArchitecture\\Application\\Queries\\GetBookByIdQueryHandler.cs",
+              "RelativeToolTip": "Application\\Queries\\GetBookByIdQueryHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T09:36:15.745Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "GetBookByIdQuery.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\CleanArchitecture\\Application\\Queries\\GetBookByIdQuery.cs",
+              "RelativeDocumentMoniker": "Application\\Queries\\GetBookByIdQuery.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\CleanArchitecture\\Application\\Queries\\GetBookByIdQuery.cs",
+              "RelativeToolTip": "Application\\Queries\\GetBookByIdQuery.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T09:33:29.836Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "GetAuthorsQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\CleanArchitecture\\Application\\Queries\\GetAuthorsQueryHandler.cs",
+              "RelativeDocumentMoniker": "Application\\Queries\\GetAuthorsQueryHandler.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\CleanArchitecture\\Application\\Queries\\GetAuthorsQueryHandler.cs",
+              "RelativeToolTip": "Application\\Queries\\GetAuthorsQueryHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T20:00:38.124Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "GetAuthorsQuery.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\CleanArchitecture\\Application\\Queries\\GetAuthorsQuery.cs",
+              "RelativeDocumentMoniker": "Application\\Queries\\GetAuthorsQuery.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\CleanArchitecture\\Application\\Queries\\GetAuthorsQuery.cs",
+              "RelativeToolTip": "Application\\Queries\\GetAuthorsQuery.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T19:57:31.758Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "GetAuthorByIdQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\CleanArchitecture\\Application\\Queries\\GetAuthorByIdQueryHandler.cs",
+              "RelativeDocumentMoniker": "Application\\Queries\\GetAuthorByIdQueryHandler.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\CleanArchitecture\\Application\\Queries\\GetAuthorByIdQueryHandler.cs",
+              "RelativeToolTip": "Application\\Queries\\GetAuthorByIdQueryHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T09:38:42.119Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "GetAuthorByIdQuery.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\CleanArchitecture\\Application\\Queries\\GetAuthorByIdQuery.cs",
+              "RelativeDocumentMoniker": "Application\\Queries\\GetAuthorByIdQuery.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\CleanArchitecture\\Application\\Queries\\GetAuthorByIdQuery.cs",
+              "RelativeToolTip": "Application\\Queries\\GetAuthorByIdQuery.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T09:30:11.657Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "DeleteAuthorCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\CleanArchitecture\\Application\\Handlers\\AuthorHandlers\\DeleteAuthorCommandHandler.cs",
+              "RelativeDocumentMoniker": "Application\\Handlers\\AuthorHandlers\\DeleteAuthorCommandHandler.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\CleanArchitecture\\Application\\Handlers\\AuthorHandlers\\DeleteAuthorCommandHandler.cs",
+              "RelativeToolTip": "Application\\Handlers\\AuthorHandlers\\DeleteAuthorCommandHandler.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T14:52:57.538Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "UpdateBookCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\CleanArchitecture\\Application\\Handlers\\BookHandlers\\UpdateBookCommandHandler.cs",
+              "RelativeDocumentMoniker": "Application\\Handlers\\BookHandlers\\UpdateBookCommandHandler.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\CleanArchitecture\\Application\\Handlers\\BookHandlers\\UpdateBookCommandHandler.cs",
+              "RelativeToolTip": "Application\\Handlers\\BookHandlers\\UpdateBookCommandHandler.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T14:54:58.345Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "DeleteBookCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\CleanArchitecture\\Application\\Handlers\\BookHandlers\\DeleteBookCommandHandler.cs",
+              "RelativeDocumentMoniker": "Application\\Handlers\\BookHandlers\\DeleteBookCommandHandler.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\CleanArchitecture\\Application\\Handlers\\BookHandlers\\DeleteBookCommandHandler.cs",
+              "RelativeToolTip": "Application\\Handlers\\BookHandlers\\DeleteBookCommandHandler.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T14:55:47.781Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "AddBookCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\CleanArchitecture\\Application\\Handlers\\BookHandlers\\AddBookCommandHandler.cs",
+              "RelativeDocumentMoniker": "Application\\Handlers\\BookHandlers\\AddBookCommandHandler.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\CleanArchitecture\\Application\\Handlers\\BookHandlers\\AddBookCommandHandler.cs",
+              "RelativeToolTip": "Application\\Handlers\\BookHandlers\\AddBookCommandHandler.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAAABgAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T14:54:12.629Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "UpdateAuthorCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\CleanArchitecture\\Application\\Handlers\\AuthorHandlers\\UpdateAuthorCommandHandler.cs",
+              "RelativeDocumentMoniker": "Application\\Handlers\\AuthorHandlers\\UpdateAuthorCommandHandler.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\CleanArchitecture\\Application\\Handlers\\AuthorHandlers\\UpdateAuthorCommandHandler.cs",
+              "RelativeToolTip": "Application\\Handlers\\AuthorHandlers\\UpdateAuthorCommandHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T14:51:55.954Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "AddAuthorCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\CleanArchitecture\\Application\\Handlers\\AuthorHandlers\\AddAuthorCommandHandler.cs",
+              "RelativeDocumentMoniker": "Application\\Handlers\\AuthorHandlers\\AddAuthorCommandHandler.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\CleanArchitecture\\Application\\Handlers\\AuthorHandlers\\AddAuthorCommandHandler.cs",
+              "RelativeToolTip": "Application\\Handlers\\AuthorHandlers\\AddAuthorCommandHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T14:50:55.894Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "UpdateBookCommand.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\CleanArchitecture\\Application\\Commands\\BookCommands\\UpdateBookCommand.cs",
+              "RelativeDocumentMoniker": "Application\\Commands\\BookCommands\\UpdateBookCommand.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\CleanArchitecture\\Application\\Commands\\BookCommands\\UpdateBookCommand.cs",
+              "RelativeToolTip": "Application\\Commands\\BookCommands\\UpdateBookCommand.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAAAkAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T14:40:54.036Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "DeleteBookCommand.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\CleanArchitecture\\Application\\Commands\\BookCommands\\DeleteBookCommand.cs",
+              "RelativeDocumentMoniker": "Application\\Commands\\BookCommands\\DeleteBookCommand.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\CleanArchitecture\\Application\\Commands\\BookCommands\\DeleteBookCommand.cs",
+              "RelativeToolTip": "Application\\Commands\\BookCommands\\DeleteBookCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T14:39:38.676Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "AddBookCommand.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\CleanArchitecture\\Application\\Commands\\BookCommands\\AddBookCommand.cs",
+              "RelativeDocumentMoniker": "Application\\Commands\\BookCommands\\AddBookCommand.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\CleanArchitecture\\Application\\Commands\\BookCommands\\AddBookCommand.cs",
+              "RelativeToolTip": "Application\\Commands\\BookCommands\\AddBookCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T14:34:59.073Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "UpdateAuthorCommand.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\CleanArchitecture\\Application\\Commands\\AuthorCommands\\UpdateAuthorCommand.cs",
+              "RelativeDocumentMoniker": "Application\\Commands\\AuthorCommands\\UpdateAuthorCommand.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\CleanArchitecture\\Application\\Commands\\AuthorCommands\\UpdateAuthorCommand.cs",
+              "RelativeToolTip": "Application\\Commands\\AuthorCommands\\UpdateAuthorCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T14:27:58.982Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "DeleteAuthorCommand.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\CleanArchitecture\\Application\\Commands\\AuthorCommands\\DeleteAuthorCommand.cs",
+              "RelativeDocumentMoniker": "Application\\Commands\\AuthorCommands\\DeleteAuthorCommand.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\CleanArchitecture\\Application\\Commands\\AuthorCommands\\DeleteAuthorCommand.cs",
+              "RelativeToolTip": "Application\\Commands\\AuthorCommands\\DeleteAuthorCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T14:32:54.685Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "AddAuthorCommand.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\CleanArchitecture\\Application\\Commands\\AuthorCommands\\AddAuthorCommand.cs",
+              "RelativeDocumentMoniker": "Application\\Commands\\AuthorCommands\\AddAuthorCommand.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\CleanArchitecture\\Application\\Commands\\AuthorCommands\\AddAuthorCommand.cs",
+              "RelativeToolTip": "Application\\Commands\\AuthorCommands\\AddAuthorCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T14:24:41.74Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\CleanArchitecture\\Api\\Program.cs",
+              "RelativeDocumentMoniker": "Api\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\CleanArchitecture\\Api\\Program.cs",
+              "RelativeToolTip": "Api\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T13:20:24.063Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Infrastructure.csproj",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\CleanArchitecture\\Infrastructure\\Infrastructure.csproj",
+              "RelativeDocumentMoniker": "Infrastructure\\Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\User\\Desktop\\CleanArchitecture\\Infrastructure\\Infrastructure.csproj",
+              "RelativeToolTip": "Infrastructure\\Infrastructure.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-30T18:48:32.081Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
